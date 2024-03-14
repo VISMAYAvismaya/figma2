@@ -1,0 +1,27 @@
+.button{
+    background-color: yellow;
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+
+    text-align: center;
+}
+.content{
+    height: 350px;
+    text-align: center;
+    /* top: 50%; */
+    
+}
+.btn{
+    border-radius: 20px;
+}
+.para{
+    font-size: 14px;
+    color: grey;
+}
+.email{
+    border-radius: 15px;
+    background: rgb(59, 54, 54);
+    
+    border: 0;
+}
